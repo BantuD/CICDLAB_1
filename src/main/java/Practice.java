@@ -16,7 +16,8 @@ public class Practice
 	{
 		String str1="Stephen Edwin King";
 		String str2="Walter Winchell";
-		System.out.println(str1.equalsIgnoreCase(str2));
+		str3=str1+str2;
+		System.out.println(str3);
 		
 		
 	}
